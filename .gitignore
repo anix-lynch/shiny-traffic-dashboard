@@ -1,0 +1,16 @@
+# R and RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# OS files
+.DS_Store
+._*
+
+# Large data files (consider using Git LFS for these)
+data/*.csv
+
+# Logs
+*.log
